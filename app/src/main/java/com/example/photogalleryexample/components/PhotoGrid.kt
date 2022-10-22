@@ -1,4 +1,4 @@
-package com.example.photogalleryexample.ui.theme.components
+package com.example.photogalleryexample.components
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.Image

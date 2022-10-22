@@ -17,7 +17,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.photogalleryexample.ui.theme.PhotoGalleryExampleTheme
-import com.example.photogalleryexample.ui.theme.components.PhotoGrid
+import com.example.photogalleryexample.components.PhotoGrid
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
